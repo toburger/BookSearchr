@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BookSearchr": {
+      "commandName": "Project",
+      "commandLineArgs": "--title F#"
+    }
+  }
+}
